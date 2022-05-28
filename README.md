@@ -1,3 +1,3 @@
 # Coding Challenges
 
-Practicing JavaScript# coding-challenges
+Practicing JavaScript and Java coding-challenges.
